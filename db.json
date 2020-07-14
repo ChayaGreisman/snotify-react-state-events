@@ -22,7 +22,7 @@
       "artist": "2Pac ft Talent",
       "url": "https://www.youtube.com/embed/eXvBjCO19QY",
       "genre": "Hip Hop",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "artist": "Bruno Mars",
       "url": "https://www.youtube.com/embed/UqyT8IEBkvY",
       "genre": "Hip Hop",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": 5,
@@ -166,7 +166,7 @@
       "artist": "Bad Bunny",
       "url": "https://www.youtube.com/embed/acEOASYioGY",
       "genre": "Hip Hop",
-      "favorite": true
+      "favorite": false
     }
   ]
 }
